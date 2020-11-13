@@ -40,12 +40,12 @@
 }
 
 .tooltip.search-tip .tooltip-inner {
-  background-color: #ef192d;
+  background-color: var(--color-theme-accents);
   color: white;
 }
 
 .tooltip.search-tip .tooltip-arrow {
-  border-color: #ef192d;
+  border-color: var(--color-theme-accents);
   left: 11px !important;
 }
 
