@@ -1,6 +1,6 @@
 {
   "title": "SpendChain Testnet Explorer",
-  "server": "http://52.27.100.120:4103/api/v2",
+  "server": "https://texplorer.spendchain.net/api/v2",
   "alias": "Testnet local",
   "activeDelegates": "51",
   "rewardOffset": "75600",
@@ -8,7 +8,7 @@
   "knownWallets": {},
   "defaults": {
     "token": "SPND",
-    "symbol": "S",
+    "symbol": "SPND",
     "currency": null,
     "priceChartOptions": {
       "enabled": false,

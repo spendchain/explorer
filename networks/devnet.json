@@ -1,13 +1,13 @@
 {
   "title": "SpendChain Devnet Explorer",
-  "server": "http://52.27.100.120:4103/api/v2",
+  "server": "https://dexplorer.spendchain.net/api/v2",
   "alias": "Development",
   "activeDelegates": "51",
   "rewardOffset": "75600",
   "currencies": [],
   "defaults": {
     "token": "SPND",
-    "symbol": "S",
+    "symbol": "SPND",
     "currency": null,
     "priceChartOptions": {
       "enabled": false,

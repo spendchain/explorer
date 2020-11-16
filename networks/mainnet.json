@@ -1,13 +1,13 @@
 {
   "title": "SpendChain Mainnet Explorer",
-  "server": "http://52.27.100.120:4103/api/v2",
+  "server": "https://explorer.spendchain.net/api/v2",
   "alias": "Main",
   "activeDelegates": "51",
   "rewardOffset": "75600",
   "currencies": [],
   "defaults": {
     "token": "SPND",
-    "symbol": "S",
+    "symbol": "SPND",
     "currency": null,
     "priceChartOptions": {
       "enabled": true,
