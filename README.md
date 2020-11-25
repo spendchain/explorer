@@ -1,7 +1,7 @@
-# Ark Explorer 3.0
+# Spendchain Explorer 3.0
 
 <p align="center">
-    <img src="/ARKExplorer.png" />
+    <img src="/banner.png" />
 </p>
 
 > Designed and developed from the ground-up, using lean & fast developmental frameworks (Tailwind CSS & Vue.JS).
@@ -10,16 +10,16 @@
 [![Codecov](https://badgen.now.sh/codecov/c/github/arkecosystem/explorer)](https://codecov.io/gh/arkecosystem/explorer)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
-> Lead Maintainer: [Michel Kraaijeveld](https://github.com/ItsANameToo)
+> Lead Maintainer: [Alexandr Savitskiy](https://github.com/alexysav)
 
-You can access it at [https://explorer.ark.io/](https://explorer.ark.io/).
+You can access it at [https://explorer.spendchain.org/](https://explorer.spendchain.org/).
 
 ## Build Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ArkEcosystem/explorer
+git clone https://github.com/spendchain/explorer
 ```
 
 ### 2. Install Dependencies
