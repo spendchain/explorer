@@ -1,6 +1,6 @@
 {
   "title": "SpendChain Devnet Explorer",
-  "server": "https://dexplorer.spendchain.net/api/v2",
+  "server": "https://dexplorer.spendchain.org/api/v2",
   "alias": "Development",
   "activeDelegates": "51",
   "rewardOffset": "75600",

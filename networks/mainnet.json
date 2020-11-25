@@ -1,6 +1,6 @@
 {
   "title": "SpendChain Mainnet Explorer",
-  "server": "https://explorer.spendchain.net/api/v2",
+  "server": "https://explorer.spendchain.org/api/v2",
   "alias": "Main",
   "activeDelegates": "51",
   "rewardOffset": "75600",

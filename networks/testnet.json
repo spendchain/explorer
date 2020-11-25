@@ -1,6 +1,6 @@
 {
   "title": "SpendChain Testnet Explorer",
-  "server": "https://texplorer.spendchain.net/api/v2",
+  "server": "https://texplorer.spendchain.org/api/v2",
   "alias": "Testnet local",
   "activeDelegates": "51",
   "rewardOffset": "75600",
